@@ -1,0 +1,44 @@
+.banner{
+    background: url('https://http2.mlstatic.com/D_NQ_NP_880479-MLB32595752780_102019-O.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 180px;
+    width: 100%;
+    position: relative;
+    padding: 15px;
+
+    .info-banner{
+        position: absolute;
+        bottom: 15px;
+
+        h2,
+        P{
+            color: #fff;
+        }
+
+        h2{
+            font-size: 20px;
+            margin: 0;
+            font-weight: normal;
+        }
+
+        p{
+            font-size: 12px;
+            margin: o;
+            margin-bottom: 15px;
+        }
+    }
+}
+
+.batata{
+    --padding-start: 5px;
+}
+
+.teste{
+
+    height: 80px;
+    width: 80%;
+    position: relative;
+    padding: 15px;
+}

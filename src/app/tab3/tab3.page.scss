@@ -1,7 +1,32 @@
-ion-item{
+
+.ben{
     --padding-start: 5px;
 
     &:hover{
-        --background: #fdc6fd;
+        --background: #b7f5a8;
+    }
+}
+
+.urso{
+    --padding-start: 5px;
+
+    &:hover{
+        --background: #a8eaf5;
+    }
+}
+
+.thomas{
+    --padding-start: 5px;
+
+    &:hover{
+        --background: #6b8be4;
+    }
+}
+
+.pony{
+    --padding-start: 5px;
+
+    &:hover{
+        --background: #e3a8f5;
     }
 }

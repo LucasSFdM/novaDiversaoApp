@@ -1,0 +1,44 @@
+.banner{
+    background: url('https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0LD8L8stpbvM8Xohl71LrFJ1ar.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 180px;
+    width: 100%;
+    position: relative;
+    padding: 15px;
+
+    .info-banner{
+        position: absolute;
+        bottom: 15px;
+
+        h2,
+        P{
+            color: #fff;
+        }
+
+        h2{
+            font-size: 20px;
+            margin: 0;
+            font-weight: normal;
+        }
+
+        p{
+            font-size: 12px;
+            margin: o;
+            margin-bottom: 15px;
+        }
+    }
+}
+
+.batata{
+    --padding-start: 5px;
+}
+
+.teste{
+
+    height: 80px;
+    width: 80%;
+    position: relative;
+    padding: 15px;
+}
